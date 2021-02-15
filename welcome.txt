@@ -1,2 +1,2 @@
-Welcome first message
-welcome second message
+Welcome to first message
+welcome to second message
